@@ -1,0 +1,848 @@
+1482734184620	geckodriver	INFO	Listening on 127.0.0.1:40328
+1482734185570	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ruO9rTo7ywH7
+1482734185572	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482734185589	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35597
+
+(firefox:958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:958): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:958): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482734190469	Marionette	INFO	Listening on port 35597
+
+(/usr/lib/firefox/plugin-container:1037): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1037): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1037): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482734264962	geckodriver	INFO	Listening on 127.0.0.1:51680
+1482734265959	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GDeFZlEvihDP
+1482734265959	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482734265960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43852
+
+(firefox:1135): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1135): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1135): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1135): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482734266805	Marionette	INFO	Listening on port 43852
+
+(/usr/lib/firefox/plugin-container:1199): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1199): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1199): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1199): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482734294801	geckodriver	INFO	Listening on 127.0.0.1:35792
+1482734295800	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MiwRBN7znR7x
+1482734295801	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482734295802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45186
+
+(firefox:1267): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1267): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1267): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1267): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482734296721	Marionette	INFO	Listening on port 45186
+
+(/usr/lib/firefox/plugin-container:1331): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1331): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1331): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:1331): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482734849636	geckodriver	INFO	Listening on 127.0.0.1:59073
+1482734850637	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1eLG7uCfYuGG
+1482734850638	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482734850643	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37228
+
+(firefox:2476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482734851669	Marionette	INFO	Listening on port 37228
+
+(/usr/lib/firefox/plugin-container:2548): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2548): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2548): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2548): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482736456589	geckodriver	INFO	Listening on 127.0.0.1:57274
+1482736457601	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.N90rk3WBwobX
+1482736457602	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482736457609	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41288
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482736459065	Marionette	INFO	Listening on port 41288
+
+(/usr/lib/firefox/plugin-container:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3428): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482738289585	geckodriver	INFO	Listening on 127.0.0.1:34072
+1482738290541	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cBBEALspG3J8
+1482738290542	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482738290558	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43708
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482738293244	Marionette	INFO	Listening on port 43708
+
+(/usr/lib/firefox/plugin-container:6731): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6731): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6731): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482740699710	geckodriver	INFO	Listening on 127.0.0.1:44012
+1482740700709	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CDxVp456XAQG
+1482740700731	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482740700736	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45638
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482740701761	Marionette	INFO	Listening on port 45638
+
+(/usr/lib/firefox/plugin-container:9234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9163): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482740807523	geckodriver	INFO	Listening on 127.0.0.1:42484
+1482740807538	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7XNCKDk54gdo
+1482740807538	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482740807544	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33702
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482740809081	Marionette	INFO	Listening on port 33702
+
+(/usr/lib/firefox/plugin-container:9440): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9440): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9440): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9440): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482740912862	geckodriver	INFO	Listening on 127.0.0.1:42417
+1482740913860	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.L581EMFqwGKL
+1482740913861	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482740913863	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41235
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482740914794	Marionette	INFO	Listening on port 41235
+
+(/usr/lib/firefox/plugin-container:9626): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9626): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9626): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9626): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9559): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482740954780	geckodriver	INFO	Listening on 127.0.0.1:49261
+1482740955781	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Otew4mHk4IYW
+1482740955781	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482740955782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45019
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482740956754	Marionette	INFO	Listening on port 45019
+
+(/usr/lib/firefox/plugin-container:9778): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9778): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9778): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:9778): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9713): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482741735464	geckodriver	INFO	Listening on 127.0.0.1:41287
+1482741736412	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.O5VXTjBsMAa0
+1482741736414	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482741736423	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33710
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482741741324	Marionette	INFO	Listening on port 33710
+
+(/usr/lib/firefox/plugin-container:10496): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10496): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10496): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10496): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10419): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482741912156	geckodriver	INFO	Listening on 127.0.0.1:48501
+1482741912174	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.z5H0A7aROvsd
+1482741912174	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482741912177	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44684
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482741914166	Marionette	INFO	Listening on port 44684
+
+(/usr/lib/firefox/plugin-container:10712): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10712): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10712): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10712): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10648): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482741976643	geckodriver	INFO	Listening on 127.0.0.1:55225
+1482741977638	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lx7tiXzAFJWv
+1482741977638	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482741977641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41436
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482741978646	Marionette	INFO	Listening on port 41436
+
+(/usr/lib/firefox/plugin-container:10880): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10880): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10880): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10880): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10813): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482742002623	geckodriver	INFO	Listening on 127.0.0.1:45819
+1482742003613	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vZRDqlwUdjlC
+1482742003615	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482742003621	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41307
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742004543	Marionette	INFO	Listening on port 41307
+
+(/usr/lib/firefox/plugin-container:11033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11033): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11033): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:10967): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482742086150	geckodriver	INFO	Listening on 127.0.0.1:56231
+1482742087152	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hY7yot7Weo2P
+1482742087154	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482742087159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38353
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742088113	Marionette	INFO	Listening on port 38353
+
+(/usr/lib/firefox/plugin-container:11234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482742132621	geckodriver	INFO	Listening on 127.0.0.1:42779
+1482742133615	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fJHkjSf5I2Hm
+1482742133615	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482742133616	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33438
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742134826	Marionette	INFO	Listening on port 33438
+
+(/usr/lib/firefox/plugin-container:11396): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11396): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11396): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11396): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11325): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482742214988	geckodriver	INFO	Listening on 127.0.0.1:40852
+1482742215985	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fzqAWyxi8Xvj
+1482742215986	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482742215987	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34808
+
+(firefox:11519): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11519): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11519): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11519): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742216908	Marionette	INFO	Listening on port 34808
+
+(/usr/lib/firefox/plugin-container:11587): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11587): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11587): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11587): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742275924	geckodriver	INFO	Listening on 127.0.0.1:43772
+1482742276919	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ujdrJmgxSd6E
+1482742276920	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482742276922	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36585
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742278272	Marionette	INFO	Listening on port 36585
+
+(/usr/lib/firefox/plugin-container:11757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482742320220	geckodriver	INFO	Listening on 127.0.0.1:51597
+1482742321216	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6FNErSMNzN2U
+1482742321217	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482742321218	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35021
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742322124	Marionette	INFO	Listening on port 35021
+
+(/usr/lib/firefox/plugin-container:11911): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11911): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11911): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11911): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11853): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482742500818	geckodriver	INFO	Listening on 127.0.0.1:52767
+1482742501825	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Un1pCSkAJt0w
+1482742501826	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482742501830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38922
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482742502805	Marionette	INFO	Listening on port 38922
+
+(/usr/lib/firefox/plugin-container:12121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12056): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482743019633	geckodriver	INFO	Listening on 127.0.0.1:44094
+1482743020628	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Sa4rOb6a5q2C
+1482743020629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482743020630	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33904
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482743022052	Marionette	INFO	Listening on port 33904
+
+(/usr/lib/firefox/plugin-container:12879): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12879): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12879): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12879): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12811): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482743109263	geckodriver	INFO	Listening on 127.0.0.1:51596
+1482743109346	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HovcFcCOdeVd
+1482743109346	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482743109349	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42327
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482743112289	Marionette	INFO	Listening on port 42327
+
+(/usr/lib/firefox/plugin-container:13091): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13091): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13091): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13091): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13015): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0716060' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0dff2e0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79eb6c7290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79eb6c7290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79eb6c7290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79f1d4f560' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d07049c0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d07049c0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0704b00' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0d4c830' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dedb4420' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dedb4420' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dedb4420' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dedb4420' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dedb4420' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dedb4420' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dedb4420' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0e6cb50' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0e6cb50' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0e6cb50' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0e6cb50' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79d0efd290' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79f624cba0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79f624cba0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79f624cba0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dad6f330' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dad6f330' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dad6f330' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dad6f330' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79dad6f330' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79db0f28d0' of type 'MaiAtkType13b'
+
+(firefox:13015): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f79db0f28d0' of type 'MaiAtkType13b'
+1482744360104	geckodriver	INFO	Listening on 127.0.0.1:41645
+1482744361169	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LQS1MrwupnQ4
+1482744361170	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482744361172	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34430
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482744362143	Marionette	INFO	Listening on port 34430
+
+(/usr/lib/firefox/plugin-container:20444): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20444): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20444): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20444): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20379): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482744405694	geckodriver	INFO	Listening on 127.0.0.1:50839
+1482744406695	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wcjVkUkhLwFF
+1482744406697	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482744406701	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42381
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1482744407617	Marionette	INFO	Listening on port 42381
+
+(/usr/lib/firefox/plugin-container:20599): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20599): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20599): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20533): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20533): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f5c80a40150' of type 'MaiAtkType13b'
+
+(firefox:20533): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f5c9999be20' of type 'MaiAtkType13b'
+
+(firefox:20533): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f5c9999be20' of type 'MaiAtkType13b'
+
+(firefox:20533): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f5c9999be20' of type 'MaiAtkType13b'
+
+(firefox:20533): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f5ca86a4bf0' of type 'MaiAtkType13b'
+
+(firefox:20533): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f5ca86a4bf0' of type 'MaiAtkType13b'
+
+(firefox:20533): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f5ca86a4bf0' of type 'MaiAtkType13b'
